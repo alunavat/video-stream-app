@@ -10,8 +10,7 @@ The following functionalities are enabled using Stream Client:
 4. Stream List View
 5. Stream a video
 
-We rely on REST Convention for achieveing the above functionalities. Along with React the app uses Redux, actions and reducers for implementation.
-The concept of Portals in react has been utilised to create a Modal view in Stream Deletion.
+We rely on REST Convention for achieveing the above functionalities. Along with React, the application implements Redux, actions and reducers for core functionalities. The concept of Portals in React has been utilised to create a Modal view in Stream Deletion.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
