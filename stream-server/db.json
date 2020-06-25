@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Facebook Stream",
+      "description": "This is a stream for facebook.",
+      "id": 1
+    },
+    {
+      "title": "Google Stream ",
+      "description": "This is a stream for google.",
+      "id": 2
+    },
+    {
+      "title": "Microsoft Stream",
+      "description": "This is a stream for microsoft.",
+      "userId": "100330372889220789644",
+      "id": 4
+    }
+  ]
+}
